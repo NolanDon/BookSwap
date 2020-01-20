@@ -8,7 +8,7 @@ This project was completed as of Weeks 10-12 in the Web Development bootcamp at 
 
 There are multiple goals to this project:
 
-- Become familiar working with REST API's in the Ruby on Rails framework
+- Working with REST API's in the Ruby on Rails framework
 - Use existing code style and approach to implement new features in unfamiliar territory
 - Apply previous learning tactics to research and become familiar with a new paradigm, language and framework
 
